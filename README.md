@@ -13,7 +13,8 @@
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
-6. 🌟 Executive Summary
+🌟 Executive Summary
+
 In the vast and ever-growing world of digital entertainment, movie enthusiasts are often overwhelmed by the sheer volume of choices available. This paradox of choice, where more options lead to difficulty in decision-making, is particularly pronounced in the movie industry, with its diverse array of genres, eras, and styles. To address this challenge, we've developed the Content-Based Movie Recommender System with Sentiment Analysis.
 
 Our system stands out by blending advanced algorithmic approaches with a deep understanding of user sentiments. It analyzes a vast array of movie characteristics, such as genre, plot, cast, director, and more, to identify patterns and recommend films that align closely with individual preferences. A key component of our system is sentiment analysis, which delves into the collective sentiment of user reviews, offering valuable insights into the popularity and reception of movies.
